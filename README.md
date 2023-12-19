@@ -11,7 +11,7 @@ For the latest Melissa Global Address Object release notes, please visit:
 ## Tested Environments
 - Windows 64-bit .NET Runtimes 7.0, Powershell 5.1
 - Ubuntu Linux 20.04.04 LTS 64-bit .NET 7.0
-- Melissa Global Address Object for 2023-Q4
+- Melissa Global Address Object for 2023-Q2
 
 ## Getting started
 
